@@ -11,7 +11,7 @@
             </div>
             <div class="speciality">
               <div class="sp-text">
-                <img
+                <img alt="image"
                   src="@/assets/Images/tick.png"
                   class="tick"
                   width="24"
@@ -22,7 +22,7 @@
             </div>
             <div class="speciality">
               <div class="sp-text">
-                <img
+                <img alt="image"
                   src="@/assets/Images/tick.png"
                   class="tick"
                   width="24"
@@ -37,7 +37,7 @@
             </div>
             <div class="speciality">
               <div class="sp-text">
-                <img
+                <img alt="image"
                   src="@/assets/Images/tick.png"
                   class="tick"
                   width="24"
@@ -48,7 +48,7 @@
             </div>
             <div class="speciality">
               <div class="sp-text">
-                <img
+                <img alt="image"
                   src="@/assets/Images/tick.png"
                   class="tick"
                   width="24"
@@ -59,7 +59,7 @@
             </div>
             <div class="speciality">
               <div class="sp-text">
-                <img
+                <img alt="image"
                   src="@/assets/Images/tick.png"
                   class="tick"
                   width="24"
@@ -70,7 +70,7 @@
             </div>
             <div class="speciality">
               <div class="sp-text">
-                <img
+                <img alt="image"
                   src="@/assets/Images/tick.png"
                   class="tick"
                   width="24"
@@ -85,7 +85,7 @@
             </div>
             <div class="speciality">
               <div class="sp-text">
-                <img
+                <img alt="image"
                   src="@/assets/Images/tick.png"
                   class="tick"
                   width="24"
@@ -98,7 +98,7 @@
             </div>
             <div class="speciality">
               <div class="sp-text">
-                <img
+                <img alt="image"
                   src="@/assets/Images/tick.png"
                   class="tick"
                   width="24"
@@ -109,7 +109,7 @@
             </div>
             <div class="speciality">
               <div class="sp-text">
-                <img
+                <img alt="image"
                   src="@/assets/Images/tick.png"
                   class="tick"
                   width="24"
@@ -120,7 +120,7 @@
             </div>
             <div class="speciality">
               <div class="sp-text">
-                <img
+                <img alt="image"
                   src="@/assets/Images/tick.png"
                   class="tick"
                   width="24"
@@ -131,7 +131,7 @@
             </div>
             <div class="speciality">
               <div class="sp-text">
-                <img
+                <img alt="image"
                   src="@/assets/Images/tick.png"
                   class="tick"
                   width="24"
@@ -142,7 +142,7 @@
             </div>
             <div class="speciality">
               <div class="sp-text">
-                <img
+                <img alt="image"
                   src="@/assets/Images/tick.png"
                   class="tick"
                   width="24"
@@ -170,9 +170,8 @@
             <div class="sp-box-icon text-center">
               <div class="">
                 <div class="about-image">
-                  <img
+                  <img alt="image"
                     src="../../../../assets/Images/whyChoose.png"
-                    alt="image"
                     class="publish-image"
                   />
                 </div>

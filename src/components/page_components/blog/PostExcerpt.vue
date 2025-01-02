@@ -9,7 +9,7 @@
       <div class="post-excerpt">
         <!-- <a href="javascript:void(0)" class="category">{{ category }}</a> -->
    
-          <p><span class="pr-2">            <img
+          <p><span class="pr-2">            <img alt="image"
                   src="@/assets/Images/tick.png"
                   class="tick"
                   width="25"

@@ -3,7 +3,7 @@
     <div class="container">
       <div class="row mt-4 mb-4">
         <div class="col-lg-6 col-md-12 mb-3">
-          <img
+          <img alt="image"
             class="img-fluid"
             style="
               box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
@@ -13,7 +13,7 @@
           />
         </div>
         <div class="col-lg-6 col-md-12 mb-3">
-          <img
+          <img alt="image"
             class="img-fluid"
             style="
               box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;
@@ -23,7 +23,7 @@
           />
         </div>
         <div class="col-lg-6 col-md-12">
-          <img
+          <img alt="image"
             class="img-fluid"
             style="
               box-shadow: rgb(100 100 111 / 20%) 0px 7px 29px 0px;

@@ -5,7 +5,7 @@
         <div class="col-lg-2 col-md-3 col-sm-3  indexingImage single-pricing-table" v-for="data in indexingList"
           :key="data.indexing_id" v-b-tooltip.hover.bottom @click="openIndexingURL(data.indexing_url)"
           :title="data.indexing_name">
-          <img :src="data.indexing_image_url" class="rounded mx-auto d-block" width="350" height="250" />
+          <img alt="image" :src="data.indexing_image_url" class="rounded mx-auto d-block" width="350" height="250" />
         </div>
       </div>
     </div>

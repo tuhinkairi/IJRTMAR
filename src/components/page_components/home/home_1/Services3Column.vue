@@ -11,7 +11,7 @@
           >
             <div class="service-box">
               <div class="service-image">
-                <img
+                <img alt="image"
                   src="../../../../assets/Images/authorOne.png"
                   width="51"
                   height="51"
@@ -27,7 +27,7 @@
           >
             <div class="service-box">
               <div class="service-image">
-                <img
+                <img alt="image"
                   src="../../../../assets/Images/authorTwo.png"
                   width="51"
                   height="51"
@@ -43,7 +43,7 @@
           >
             <div class="service-box">
               <div class="service-image">
-                <img
+                <img alt="image"
                   src="../../../../assets/Images/authorThree.png"
                   width="51"
                   height="51"
@@ -59,7 +59,7 @@
           >
             <div class="service-box">
               <div class="service-image">
-                <img
+                <img alt="image"
                   src="../../../../assets/Images/authorFour.png"
                   width="51"
                   height="51"
@@ -75,7 +75,7 @@
           >
             <div class="service-box">
               <div class="service-image">
-                <img
+                <img alt="image"
                   src="../../../../assets/Images/authorFive.png"
                   width="51"
                   height="51"
@@ -92,7 +92,7 @@
           >
             <div class="service-box">
               <div class="service-image">
-                <img
+                <img alt="image"
                   src="../../../../assets/Images/authorSix.png"
                   width="51"
                   height="51"

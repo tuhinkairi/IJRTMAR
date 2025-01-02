@@ -160,7 +160,7 @@
               </div>
               <div class="feature">
                 <div class="f-icon">
-                  <img src="../../../../assets/Images/openAccess.png" width="44" height="50" />
+                  <img alt="image" src="../../../../assets/Images/openAccess.png" width="44" height="50" />
                 </div>
                 <div class="f-description">
                   <h1>Author Notification</h1>

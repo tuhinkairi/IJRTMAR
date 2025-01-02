@@ -19,10 +19,10 @@
           </p>
         </div>
         <div class="shadow-effect mb-5">
-          <img src="../../../assets/Images/isn.jpg" height="90" width="200" />
+          <img alt="image" src="../../../assets/Images/isn.jpg" height="90" width="200" />
         </div>
         <div class="shadow-effect mb-5">
-          <img src="../../../assets/Images/cc.jpg" height="90" width="180" />
+          <img alt="image" src="../../../assets/Images/cc.jpg" height="90" width="180" />
           <p>All research Article published on this website are licensed under Creative Commons Attribution-ShareAlike
             4.0
             International License, and all rights belong to their respective authors/researchers.
@@ -188,11 +188,11 @@
           </router-link>
         </div>
         <div class="shadow-effect mb-5">
-          <img src="../../../assets/Images/tur.jpg" height="90" width="180" />
+          <img alt="image" src="../../../assets/Images/tur.jpg" height="90" width="180" />
           <p>Plagiarism is checked by the leading plagiarism checker</p>
         </div>
         <div class="shadow-effect mb-5">
-          <img src="../../../assets/Images/doi.jpg" height="90" width="180" />
+          <img alt="image" src="../../../assets/Images/doi.jpg" height="90" width="180" />
           <p>CrossRef DOI is assigned to research Article published in our journal.
             IJIRE DOI prefix is10.59256/ijire
           </p>
